@@ -20,4 +20,4 @@ Was born on the Russian soil under Russian sky.
   <p>I found it, I was fucked up by Vitka and Kolya</p>
   <p>Linoleum, blood stains, put on the register.</p> </a>
   
-Well, something like this
+Well, something like this 
