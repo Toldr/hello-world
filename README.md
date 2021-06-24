@@ -13,7 +13,8 @@ Kirzachi and telaga, Brezhnev died, began to go into the rocking chair
 I bought boxing gloves, they were stolen at school
 I found it, I was fucked up by Vitka and Kolya
 Linoleum, blood stains, put on the register. 
-  </a href>
 
 
+  <p>
 Was born on the Russian soil under Russian sky.
+  </p>
